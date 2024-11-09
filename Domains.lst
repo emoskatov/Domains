@@ -91,3 +91,6 @@ nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/getoutline.com/4#inet#fw4#vpn_domains
 nftset=/microsoft.com/4#inet#fw4#vpn_domains
+nftset=/rutracker.cc/4#inet#fw4#vpn_domains
+nftset=/rutracker.net/4#inet#fw4#vpn_domains
+nftset=/rutracker.ru/4#inet#fw4#vpn_domains
